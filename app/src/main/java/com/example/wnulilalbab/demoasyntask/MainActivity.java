@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
     volatile Integer minute = 0;
     volatile Integer hour = 0;
 
-    TextView viewNumber;
+    public TextView viewNumber;
     Button viewButton;
 
     ListView listTime;
